@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{846947F8-97FC-4100-B2F7-F47565645024}|Default">
+  <MonoDevelop.Ide.ItemProperties.ShortUrl PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ShortUrlTest FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShortUrl/Controllers/ShortUrlController.cs">
+    <Files>
+      <File FileName="ShortUrl/appsettings.json" Line="4" Column="19" />
+      <File FileName="ShortUrl/Controllers/ShortUrlController.cs" Line="63" Column="48" />
+      <File FileName="ShortUrl/Utility/Cryptography.cs" Line="30" Column="40" />
+      <File FileName="ShortUrl/Models/Settings.cs" Line="11" Column="1" />
+      <File FileName="ShortUrl/Utility/UriValidator.cs" Line="11" Column="5" />
+      <File FileName="ShortUrl/Program.cs" Line="15" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShortUrl" expanded="True" selected="True">
+            <Node name="ShortUrl" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Utility" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/ushanthloganathan/Projects/ShortUrl/ShortUrl/Controllers/ShortUrlController.cs" relfile="ShortUrl/Controllers/ShortUrlController.cs" line="51" column="21" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
